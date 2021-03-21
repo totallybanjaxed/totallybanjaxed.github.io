@@ -27,6 +27,12 @@ h3 {
 a {
     font-family: 'Montserrat', sans-serif;
     color: #f8f1f1;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
 }
 
 p {
@@ -122,25 +128,21 @@ hr {
     text-align: center;
 }
 
-.footer-link {
-    margin: 10px 20px;
-}
-
 .myButton {
-    box-shadow: 0px 10px 14px -7px #276873;
-    background: linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
-    background-color: #599bb3;
+    box-shadow: 0px 10px 14px -7px #5eaaa8;
+    background: linear-gradient(to bottom, #5eaaa8 5%, #408c99 100%);
+    background-color: #5eaaa8;
     border-radius: 8px;
     display: inline-block;
     cursor: pointer;
     color: #ffffff;
-    font-family: Trebuchet MS;
+    font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     font-weight: bold;
     padding: 13px 32px;
     text-decoration: none;
     text-shadow: 0px 1px 0px #3d768a;
-    margin-bottom: 10px;
+    margin: 20px auto;
 }
 
 .myButton:hover {
@@ -151,4 +153,10 @@ hr {
 .myButton:active {
     position: relative;
     top: 1px;
+}
+
+.copyright {
+    color: f8f1f1;
+    padding: 20px 30px;
+    font-family: 'Montserrat', sans-serif;
 }
