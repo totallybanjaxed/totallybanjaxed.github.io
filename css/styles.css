@@ -26,7 +26,7 @@ h3 {
 
 a {
     font-family: 'Montserrat', sans-serif;
-    color: #5eaaa8;
+    color: #f8f1f1;
 }
 
 .undertext {
@@ -57,6 +57,7 @@ a {
 
 .bottom-container {
     padding-top: 50px;
+    background-color: #5eaaa8;
 }
 
 #profile-image {
@@ -102,14 +103,21 @@ a {
 .contact-me {
     width: 50%;
     line-height: 2;
+    margin: auto;
 }
 
 .contact-desc {
-    width: 50%;
     line-height: 2;
     text-align: left;
 }
 
 #hello-title {
     text-align: center;
+}
+
+.footer-link {
+    display: inline-block;
+    width: 100px;
+    padding: 50px;
+    margin: auto;
 }
