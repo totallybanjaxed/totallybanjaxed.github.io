@@ -3,7 +3,7 @@ body {
     text-align: center;
     font-family: 'Merriweather', serif;
     font-size: 1rem;
-    }
+}
 
 h1 {
     font-size: 5.625rem;
@@ -29,7 +29,7 @@ a {
     color: #5eaaa8;
 }
 
-.undertext{
+.undertext {
     text-decoration: underline;
 }
 
@@ -45,7 +45,7 @@ a {
     top: 300px;
 }
 
-.top-container{
+.top-container {
     background-color: #f8f1f1;
     padding-top: 100px;
     line-height: 2;
@@ -56,19 +56,18 @@ a {
 }
 
 .bottom-container {
-   padding-top: 50px;
+    padding-top: 50px;
 }
 
 #profile-image {
     border-radius: 100%;
     width: 150px;
     height: 150px;
-    margin: 50px auto 50px auto;
 }
 
 .dice-image {
     background-color: #5eaaa8;
-    border-radius:100%;
+    border-radius: 100%;
     width: 20%;
     margin-right: 30px;
     float: left;
@@ -76,7 +75,7 @@ a {
 
 .cards-image {
     background-color: #5eaaa8;
-    border-radius:100%;
+    border-radius: 100%;
     width: 20%;
     margin-left: 30px;
     float: right;
@@ -96,7 +95,6 @@ a {
 
 .profile-desc {
     width: 50%;
-    text-align: left;
     line-height: 2;
 }
 
@@ -108,4 +106,3 @@ a {
 #hello-title {
     text-align: center;
 }
-
