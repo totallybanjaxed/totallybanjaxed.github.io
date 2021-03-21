@@ -96,11 +96,18 @@ a {
 .profile-desc {
     width: 50%;
     line-height: 2;
+    margin: auto;
 }
 
 .contact-me {
     width: 50%;
     line-height: 2;
+}
+
+.contact-desc {
+    width: 50%;
+    line-height: 2;
+    text-align: left;
 }
 
 #hello-title {
